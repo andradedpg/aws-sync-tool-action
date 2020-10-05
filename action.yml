@@ -1,6 +1,6 @@
-name: "S3 Sync"
-description: "Sync a directory to an AWS S3 repository"
-author: jakejarvis
+name: "AWS Create/Destroy/Sync tools"
+description: "Create a new S3 Bucket ou updated thier. Or create a new Route53 entry."
+author: andradedpg
 runs:
   using: docker
   image: Dockerfile
